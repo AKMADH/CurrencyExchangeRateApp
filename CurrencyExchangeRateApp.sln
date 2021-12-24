@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30330.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CurrencyExchangeRateApp", "CurrencyExchangeRateApp\CurrencyExchangeRateApp.csproj", "{DA3E332E-FC55-4069-A818-8EC5FDE44E70}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DA3E332E-FC55-4069-A818-8EC5FDE44E70}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA3E332E-FC55-4069-A818-8EC5FDE44E70}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA3E332E-FC55-4069-A818-8EC5FDE44E70}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA3E332E-FC55-4069-A818-8EC5FDE44E70}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B9F52A54-5CB3-4EB4-A2B8-EE7D7C0A8C35}
+	EndGlobalSection
+EndGlobal
